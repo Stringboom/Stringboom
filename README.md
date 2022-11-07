@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stringboom
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently doing in-depth studying into algorithms and mathematics for ml
+- 🌱 I’m currently doing in-depth study into algorithms and mathematics for ml
 - 📫 You can reach me by e-mail on johanwestermann@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
