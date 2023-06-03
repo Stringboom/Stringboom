@@ -14,7 +14,7 @@
 </p>
 
 ### Languages
-[![PHP](https://img.shields.io/badge/python-black?style=for-the-badge&logo=php)](https://github.com/Stringboom)
+[![Php](https://img.shields.io/badge/python-black?style=for-the-badge&logo=php)](https://github.com/Stringboom)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Stringboom)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Stringboom)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Stringboom)
