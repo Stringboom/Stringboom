@@ -1,7 +1,8 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/Stringboom/Stringboom/assets/38455240/9c21f68a-2b28-45e7-a30e-c4e8ff7a718b" width="28px" alt="👋"></h1>
 
 # 💫 About Me:
-Hi I am Johan<br>Currently studying the crazy world of render engines and shaders
+
+Just a guy that found a 127.0.0.1 in qwerty
 
 
 ## 🌐 Socials:
