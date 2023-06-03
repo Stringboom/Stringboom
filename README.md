@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stringboom" alt="stringboom" /></a> </p>
 
-- 🌱 I’m currently learning **Physics & Mathematics**
+- 🌱 I’m continually learning **Physics & Mathematics**
 
 - 👨‍💻 All of my projects are available at [https://johanwestermann.co.za](https://johanwestermann.co.za)
 
