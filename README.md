@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://johanwestermann.co.za](https://johanwestermann.co.za)
 
-- 📝 I regularly write articles on [https://blog.johanwestermann.co.za](https://blog.johanwestermann.co.za)
-
 - 💬 Ask me about **Laravel, Wordpress & Unity**
 
 - 📫 How to reach me **contact@johanwestermann.co.za**
